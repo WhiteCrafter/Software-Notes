@@ -22,5 +22,4 @@ examples only from slides
 p.s composites not doen
 
 ## Others Thing Idk
-
 [[Week 1 notes]]
