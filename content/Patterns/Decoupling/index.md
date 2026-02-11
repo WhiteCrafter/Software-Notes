@@ -1,5 +1,5 @@
 ---
-	title: 	Decoupling
+	title: Decoupling
 ---
 #software/designpatterns/category
 # Decoupling
