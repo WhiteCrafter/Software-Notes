@@ -1,0 +1,2 @@
+> [!note] **Liskov substitution principle**
+>In a program with `U` being a subclass of `O`, every exemplar of `O` can be replaced with an exemplar of subclass `U` and the program will continue to work correctly.
