@@ -1,7 +1,3 @@
----
-	title: Decoupling
----
-
 #software/designpatterns/category
 # Decoupling
 Decoupling Patterns divide a software system into several independent parts in such a way that they can be built, changed, and replaced independently as well as reused and recombined in unforeseen combinations. An important advantage of decoupling is local change, i.e., a system consisting of decoupled parts can be adapted and extended by modifying or adding a single or only a few parts, instead of modifying everything.
