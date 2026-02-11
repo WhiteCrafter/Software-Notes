@@ -21,6 +21,6 @@ pretty much done
 examples only from slides
 p.s composites not doen
 
-## Others Idk
+## Others Thing Idk
 
 [[Week 1 notes]]
