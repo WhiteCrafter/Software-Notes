@@ -1,3 +1,6 @@
+---
+    title: UML
+---
 # Types Of UML
 - [[Use Case Diagrams]]
 - [[Class Diagrams]]

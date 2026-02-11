@@ -1,5 +1,5 @@
 ---
-    title: Software
+    title: Patterns
 ---
 
 #software/designpatterns 
