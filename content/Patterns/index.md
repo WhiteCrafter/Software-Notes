@@ -1,3 +1,7 @@
+---
+	title: Patterns
+---
+
 #software/designpatterns 
 # Where can I find more Design Patterns
 - “Design Patterns”, Gamma et al, Addison Wesley,1995. Deutsche Ausgabe: “Entwurfsmuster”, Riehle. 
