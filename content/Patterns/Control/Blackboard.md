@@ -1,5 +1,5 @@
 #software/designpatterns/patern 
-[[Chap3.3DesignPatternTurorial.pdf#page=165 ]]
+[[Chap3.3DesignPatternTurorial.pdf#page=165|see Page 165]]
 # Intent 
 The Blackboard architectural pattern is useful for problems for which no deterministic solution strategies are known. In Blackboard several specialized subsystems assemble their knowledge to build a possibly partial or approximate solution.
 # Structure
