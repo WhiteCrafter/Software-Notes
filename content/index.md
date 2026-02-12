@@ -24,9 +24,9 @@
 - [[Chap8.1ProcessModels.pdf]]
 - [[Chap0.1ToolChain.pdf]]
 
-## [[UML]]
+## [[UML/index.md]]
 UML notes is not done yet
-## [[Patterns]]
+## [[Patterns/index.md]]
 pretty much done 
 examples only from slides
 p.s composites not done

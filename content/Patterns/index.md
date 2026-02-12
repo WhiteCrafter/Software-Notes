@@ -21,7 +21,7 @@ Design Patterns
 - improve quality and productivity, 
 - are difficult to find and describe.
 # Categories
-- [[Decoupling]]
+- [[Decoupling/index.md]]
 - [[Variant Management]]
 - [[State Handling]]
 - [[Control]]
